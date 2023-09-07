@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import Link from "next/link";
 import Image from "next/image";
@@ -133,7 +133,7 @@ const Nav = () => {
             )}
          </div>
     </nav>
-  )
-}
+  );
+};
 
-export default Nav
+export default Nav;
